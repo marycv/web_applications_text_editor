@@ -17,8 +17,6 @@ This project is a single-page text editor application that runs in the browser. 
 
 ## Installation
 npm i
-## Tests
-npm test
 ## Contact
 Questions? Contact me at mcvilloso@gmail.com 
 
