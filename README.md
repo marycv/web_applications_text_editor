@@ -14,7 +14,7 @@ Mary Villoso
 ## Project Description
 This project is a single-page text editor application that runs in the browser. It has been buillt to meet PWA criteria.
 ## Preview
-
+Preview the deployed app [here](https://morning-plains-65810.herokuapp.com)
 ## Installation
 npm i
 ## Contact
